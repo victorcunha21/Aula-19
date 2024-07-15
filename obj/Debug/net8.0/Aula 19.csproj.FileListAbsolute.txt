@@ -1,0 +1,14 @@
+C:\Users\Victo\Desktop\Aula 19\bin\Debug\net8.0\Aula 19.exe
+C:\Users\Victo\Desktop\Aula 19\bin\Debug\net8.0\Aula 19.deps.json
+C:\Users\Victo\Desktop\Aula 19\bin\Debug\net8.0\Aula 19.runtimeconfig.json
+C:\Users\Victo\Desktop\Aula 19\bin\Debug\net8.0\Aula 19.dll
+C:\Users\Victo\Desktop\Aula 19\bin\Debug\net8.0\Aula 19.pdb
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.AssemblyInfoInputs.cache
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.AssemblyInfo.cs
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.csproj.CoreCompileInputs.cache
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.dll
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\refint\Aula 19.dll
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.pdb
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\Aula 19.genruntimeconfig.cache
+C:\Users\Victo\Desktop\Aula 19\obj\Debug\net8.0\ref\Aula 19.dll
